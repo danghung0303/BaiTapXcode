@@ -8,12 +8,13 @@
 import Foundation
 
 func bai1() {
+    print("Nhập số điểm: ")
+let x = Int(readLine()! ) ?? 0
     
-    var x = 0
-    while x <= 0 {
-        print("Nhap x: ")
-        x = Int(readLine() ?? "") ?? 0
-    }
+if x == 10 {
+        print("10 điểm")
+   } else {
+       print("0 điểm")
+   }
     
-        print(x)
 }
