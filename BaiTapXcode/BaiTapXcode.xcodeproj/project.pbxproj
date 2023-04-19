@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1FB8505929F03E0C002DD3CA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB8505829F03E0C002DD3CA /* main.swift */; };
 		1FB8506229F03E89002DD3CA /* Bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB8506129F03E89002DD3CA /* Bai1.swift */; };
+		1FB8506429F04ECC002DD3CA /* Bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB8506329F04ECC002DD3CA /* Bai2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		1FB8505529F03E0C002DD3CA /* BaiTapXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaiTapXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FB8505829F03E0C002DD3CA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1FB8506129F03E89002DD3CA /* Bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai1.swift; sourceTree = "<group>"; };
+		1FB8506329F04ECC002DD3CA /* Bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				1FB8505829F03E0C002DD3CA /* main.swift */,
 				1FB8506129F03E89002DD3CA /* Bai1.swift */,
+				1FB8506329F04ECC002DD3CA /* Bai2.swift */,
 			);
 			path = BaiTapXcode;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FB8506229F03E89002DD3CA /* Bai1.swift in Sources */,
+				1FB8506429F04ECC002DD3CA /* Bai2.swift in Sources */,
 				1FB8505929F03E0C002DD3CA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
