@@ -14,7 +14,7 @@ let x = Int(readLine()! ) ?? 0
 if x == 10 {
         print("10 điểm")
    } else {
-       print("3 điểm")
+       print("7 điểm")
    }
     
 }
